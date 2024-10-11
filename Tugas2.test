@@ -1,0 +1,12 @@
+oal 1:
+Buat program C++ yang meminta pengguna untuk memasukkan dua angka. Tampilkan angka yang lebih besar dari kedua angka tersebut.
+
+Soal 2:
+Buat program C++ yang meminta pengguna untuk memasukkan sebuah nilai ujian (0-100). Jika nilai tersebut lebih dari atau sama dengan 60, tampilkan pesan "Lulus". Jika tidak, tampilkan pesan "Tidak Lulus".
+
+
+Soal 3:
+Buat program C++ yang meminta pengguna untuk memasukkan sebuah huruf. Jika huruf tersebut adalah vokal (a, e, i, o, u, baik huruf besar maupun kecil), tampilkan pesan "Huruf tersebut adalah vokal". Jika tidak, tampilkan pesan "Huruf tersebut adalah konsonan".
+
+Soal 4:
+Buat program C++ yang meminta pengguna untuk memasukkan tiga angka. Tampilkan angka terbesar dari ketiga angka tersebut.

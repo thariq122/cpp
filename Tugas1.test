@@ -1,0 +1,15 @@
+1. buat program
+   input: 2 bilangan
+   output: jumlahkan kedua bilangan
+
+2. buat program menghitung luas segitiga
+   input: tinggi, alas
+   output: luas segitiga
+
+3. buat program untuk menghitung nilai rata-rata
+   input: 4 bilangan
+   output: nilai rata-rata
+
+4. buat program menghitung luas lingkaran
+   input: jari-jari
+   output: luas lingkaran
